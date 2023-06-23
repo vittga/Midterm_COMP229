@@ -26,9 +26,7 @@
   },
   "engines": {
     "node": "18.00.0",
-    //"^10.15.0",
     "npm": "8.0.0"
-    //"^6.0.0"
   },
   "description": "## Welcome to the MidTerm Project - the Favourite Book List App",
   "main": "server.js",
