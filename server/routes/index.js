@@ -1,3 +1,8 @@
+
+// File name: index.js
+// Author: Vittoria Garcia Cardias
+// Student ID: 300970112
+
 // modules required for routing
 let express = require('express');
 let router = express.Router();
